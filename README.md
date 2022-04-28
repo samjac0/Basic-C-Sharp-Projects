@@ -5,13 +5,13 @@ This repository has various C-Sharp projects that showcase what I have learned t
 
 ## Projects
 
-[Project 1](https://github.com/samjac0/Python-Projects/tree/main/Phonebook%20Project)
+[Project 1](https://github.com/samjac0/Basic-C-Sharp-Projects/edit/main/README.md)
 
-[Project 2](https://github.com/samjac0/Python-Projects/tree/main/File%20Transfer)
+[Project 2](https://github.com/samjac0/Basic-C-Sharp-Projects/edit/main/README.md)
 
-[Project 3](https://github.com/samjac0/Python-Projects/tree/main/Django%20Apps/djangouniversity)
+[Project 3](https://github.com/samjac0/Basic-C-Sharp-Projects/edit/main/README.md)
 
-[Project 4](https://github.com/samjac0/Python-Projects/tree/main/Django%20Apps/bankproject)
+[Project 4](https://github.com/samjac0/Basic-C-Sharp-Projects/edit/main/README.md)
 
 
 ### Project 1
