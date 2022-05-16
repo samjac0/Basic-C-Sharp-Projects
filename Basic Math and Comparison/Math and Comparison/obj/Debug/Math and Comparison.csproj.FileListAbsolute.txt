@@ -1,0 +1,8 @@
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Basic Math and Comparison\Math and Comparison\obj\Debug\Math and Comparison.csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Basic Math and Comparison\Math and Comparison\obj\Debug\Math and Comparison.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Basic Math and Comparison\Math and Comparison\obj\Debug\Math and Comparison.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Basic Math and Comparison\Math and Comparison\bin\Debug\Math and Comparison.exe.config
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Basic Math and Comparison\Math and Comparison\bin\Debug\Math and Comparison.exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Basic Math and Comparison\Math and Comparison\bin\Debug\Math and Comparison.pdb
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Basic Math and Comparison\Math and Comparison\obj\Debug\Math and Comparison.exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Basic Math and Comparison\Math and Comparison\obj\Debug\Math and Comparison.pdb
