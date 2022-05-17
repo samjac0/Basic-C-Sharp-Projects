@@ -1,0 +1,8 @@
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.exe.config
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.pdb
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.pdb
