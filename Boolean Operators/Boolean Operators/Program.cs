@@ -11,20 +11,17 @@ namespace Boolean_Operators
         static void Main(string[] args)
         {
             // Variable assignments
-            int age = 32;
-            int dui = 0;
-            int tickets = 1;
 
-            Console.WriteLine("What is your age?");
-            Console.WriteLine(age);
+            Console.WriteLine("What is your age?\n(number input only)");
+            int age = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine(); // line spaces for readability
             
-            Console.WriteLine("Have you ever had a DUI?");
-            Console.WriteLine(dui > 0);
+            Console.WriteLine("How many DUI's do you have?\n(number input only)");
+            int dui = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine();
            
-            Console.WriteLine("How many speeding tickets do you have?");
-            Console.WriteLine(tickets);
+            Console.WriteLine("How many speeding tickets do you have?\n(number input only)");
+            int tickets = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine();
 
             Console.WriteLine("Do you qualify for a license?");
