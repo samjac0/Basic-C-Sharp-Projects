@@ -9,8 +9,32 @@ namespace Loops
     internal class Program
     {
         static void Main(string[] args)
+        
+        
         {
-            Console.WriteLine("Guess a number between 1-15?");
+            //while comparison
+            Console.WriteLine("Do you want to play a game? Type yes or no");
+            string game = Console.ReadLine();
+            bool boolGame = game == "yes";
+
+            while (!boolGame)
+            {
+                switch (game)
+                {
+                    case "yes":
+                        Console.WriteLine("Let's Play!");
+                        boolGame = true;
+                        break;
+                    default:
+                        Console.WriteLine("But you must, it is your destiny");
+                        Console.WriteLine("\nDo you want to play a game? Type yes or no");
+                        game = Console.ReadLine();
+                        break;
+                }
+            }
+
+                //do-while comparison
+                Console.WriteLine("\n\nGuess a number between 1-15?");
             int number = Convert.ToInt32(Console.ReadLine());
             bool isGuessed = number == 12;
 
