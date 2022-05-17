@@ -12,29 +12,24 @@ namespace Math_and_Comparison
         {
             Console.WriteLine("Anonymous Income Comparison");
             
-            string P1 = "Person 1 ";
-            int HourlyRP1 = 15; // Hourly Rate of person 1
-            int HoursP1 = 40; // Hours worked person 1
-            int SalaryP1 = 31200;
+            Console.WriteLine("Person 1 \nHours worked?");
+            int Hours1 = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Hourly rate of pay? (number input only)");
+            int Hourly1 = Convert.ToInt16(Console.ReadLine());
+           
+            Console.WriteLine("\n\nNow, let's move on to our second person. \nHours worked for person 2?");
+            int Hours2 = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Hourly rate of pay? (number input only)");
+            int Hourly2 = Convert.ToInt16(Console.ReadLine());
 
-            string P2 = "Person 2 ";
-            int HourlyRP2 = 20;
-            int HoursP2 = 15;
-            int SalaryP2 = 41600;
-
-
-            Console.WriteLine("Person 1 worked " + HoursP1.ToString() + " hours");
-            Console.WriteLine("Person 1's hourly rate is " + HourlyRP1.ToString());
-
-            Console.WriteLine("Person 2 worked " + HoursP2.ToString() + " hours");
-            Console.WriteLine("Person 2's hourly rate is " + HourlyRP2.ToString());
-            Console.WriteLine();
+            int SalaryP1 = Hours1 * Hourly1 * 52;
+            int SalaryP2 = Hours2 * Hourly2 * 52;
             
-            Console.WriteLine("Annual salary of person 1 is " + SalaryP1.ToString());
-            Console.WriteLine("Annual salary of person 2 is " + SalaryP2.ToString());
             Console.WriteLine();
+            Console.WriteLine("Person 1's yearly salary is " + SalaryP1.ToString());
+            Console.WriteLine("Person 2's yearly salary is " + SalaryP2.ToString());
             
-            Console.WriteLine("Does Person 1 make more money than Person 2?");
+            Console.WriteLine("\nDoes Person 1 make more money than Person 2?");
             
             bool money = SalaryP1 > SalaryP2;
             Console.WriteLine(money);
