@@ -1,0 +1,8 @@
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Strings and arrays\Strings and arrays\bin\Debug\Strings and arrays.exe.config
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Strings and arrays\Strings and arrays\bin\Debug\Strings and arrays.exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Strings and arrays\Strings and arrays\bin\Debug\Strings and arrays.pdb
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Strings and arrays\Strings and arrays\obj\Debug\Strings and arrays.csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Strings and arrays\Strings and arrays\obj\Debug\Strings and arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Strings and arrays\Strings and arrays\obj\Debug\Strings and arrays.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Strings and arrays\Strings and arrays\obj\Debug\Strings and arrays.exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Strings and arrays\Strings and arrays\obj\Debug\Strings and arrays.pdb

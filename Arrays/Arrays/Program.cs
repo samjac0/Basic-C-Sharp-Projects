@@ -27,9 +27,9 @@ namespace Arrays
             int index2 = Convert.ToInt32(Console.ReadLine());
 
             if (index2 <= 4 && index2 >= 0)
-            { Console.WriteLine("You chose " + (intArray2[index2])); }
+                { Console.WriteLine("You chose " + (intArray2[index2])); }
             else
-            { Console.WriteLine("That didn't work. Please restart and follow the instructions carefully."); return; } //'return' is used to avoid errors or having to create a loop
+                { Console.WriteLine("That didn't work. Please restart and follow the instructions carefully."); return; } //'return' is used to avoid errors or having to create a loop
             //End Integer Array
 
 
@@ -41,7 +41,7 @@ namespace Arrays
             //String List
             Console.WriteLine("\n\nFinally, please pick a number between 0-4 ONE LAST TIME.");
             
-            List<string> strList = new List<string>(); // 
+            List<string> strList = new List<string>(); 
                 strList.Add("Cherry Blossom");
                 strList.Add("Red Panda");
                 strList.Add("Eagle Rising");
@@ -50,9 +50,9 @@ namespace Arrays
             
             int mission = Convert.ToInt32(Console.ReadLine());
             if (mission <= 4 && mission >= 0)
-            { Console.WriteLine("Your secret-mission assignment is " + (strList[mission])); }
+                { Console.WriteLine("Your secret-mission assignment is " + (strList[mission])); }
             else
-            { Console.WriteLine("You are a failure, " + name + ". Your are being scheduled for cognitive re-assingment" ); return; } //'return' is used to avoid errors or having to create a loop
+                { Console.WriteLine("You are a failure, " + name + ". Your are being scheduled for cognitive re-assingment" ); return; } //'return' is used to avoid errors or having to create a loop
             //End String List
 
 
