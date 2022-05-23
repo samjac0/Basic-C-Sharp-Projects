@@ -13,14 +13,14 @@ namespace Calling_Methods
             return userNum1 * 2;
         }
 
-        public double add(double userNum2)
+        public int add(int userNum1)
         {
-            return userNum2 + 6.5;
+            return userNum1 + 6;
         }
 
-        public double sub(double userNum3b)
+        public int sub(int userNum1)
         {
-            return userNum3b - 2;
+            return userNum1 - 6;
         }
     }
 }
