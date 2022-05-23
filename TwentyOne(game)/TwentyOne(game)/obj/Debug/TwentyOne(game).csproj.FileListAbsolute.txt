@@ -1,0 +1,8 @@
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\TwentyOne(game)\obj\Debug\TwentyOne(game).csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\TwentyOne(game)\obj\Debug\TwentyOne(game).csproj.SuggestedBindingRedirects.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\TwentyOne(game)\obj\Debug\TwentyOne(game).csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\TwentyOne(game)\bin\Debug\TwentyOne(game).exe.config
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\TwentyOne(game)\bin\Debug\TwentyOne(game).exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\TwentyOne(game)\bin\Debug\TwentyOne(game).pdb
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\TwentyOne(game)\obj\Debug\TwentyOne(game).exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\TwentyOne(game)\obj\Debug\TwentyOne(game).pdb
