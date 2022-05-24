@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Calling_Methods
+namespace TwentyOne_game_
 {
-    public class Math
+    internal class TwentyOneGame : Game
     {
-        public int add(int userNum1, int userNum2 = 0)
+        public void Play()
         {
-            return userNum1 + 2 + userNum2;
+            throw new NotImplementedException();
         }
-
     }
 }
