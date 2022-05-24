@@ -10,7 +10,7 @@ namespace Methods_and_Objects
     {
         static void Main(string[] args)
         {
-            Person employee = new Person();
+            Employee employee = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
 
