@@ -10,17 +10,9 @@ namespace TwentyOne_game_
     {
         static void Main(string[] args)
         {
-            
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jesse";
-            game = game + player;
-    
-            
+
+
             Deck deck = new Deck();
-            //deck = Shuffle(deck);
-            //deck = Shuffle(deck: deck, times: 3);
             deck.Shuffle();
             
             foreach (Card card in deck.Cards)

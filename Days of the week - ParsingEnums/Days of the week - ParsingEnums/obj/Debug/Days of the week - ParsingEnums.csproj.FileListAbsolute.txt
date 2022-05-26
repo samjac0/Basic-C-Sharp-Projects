@@ -1,0 +1,8 @@
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Days of the week - ParsingEnums\Days of the week - ParsingEnums\obj\Debug\Days of the week - ParsingEnums.csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Days of the week - ParsingEnums\Days of the week - ParsingEnums\obj\Debug\Days of the week - ParsingEnums.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Days of the week - ParsingEnums\Days of the week - ParsingEnums\obj\Debug\Days of the week - ParsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Days of the week - ParsingEnums\Days of the week - ParsingEnums\bin\Debug\Days of the week - ParsingEnums.exe.config
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Days of the week - ParsingEnums\Days of the week - ParsingEnums\bin\Debug\Days of the week - ParsingEnums.exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Days of the week - ParsingEnums\Days of the week - ParsingEnums\bin\Debug\Days of the week - ParsingEnums.pdb
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Days of the week - ParsingEnums\Days of the week - ParsingEnums\obj\Debug\Days of the week - ParsingEnums.exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Days of the week - ParsingEnums\Days of the week - ParsingEnums\obj\Debug\Days of the week - ParsingEnums.pdb
