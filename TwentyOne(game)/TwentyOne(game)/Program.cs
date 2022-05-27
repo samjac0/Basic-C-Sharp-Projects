@@ -13,13 +13,20 @@ namespace TwentyOne_game_
 
 
             Deck deck = new Deck();
-            deck.Shuffle();
+           
+            List<Card> cards = deck.Cards.Where(x => x.Face == Face.King).ToList();
+            foreach (Card card in cards)
+            {
+                Console.WriteLine(card.Face);
+            }
             
+            deck.Shuffle();
+
             foreach (Card card in deck.Cards)
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
-          
+
             Console.ReadLine();
 
         }
