@@ -1,0 +1,8 @@
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Date-time\Date-time\bin\Debug\Date-time.exe.config
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Date-time\Date-time\bin\Debug\Date-time.exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Date-time\Date-time\bin\Debug\Date-time.pdb
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Date-time\Date-time\obj\Debug\Date-time.csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Date-time\Date-time\obj\Debug\Date-time.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Date-time\Date-time\obj\Debug\Date-time.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Date-time\Date-time\obj\Debug\Date-time.exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Date-time\Date-time\obj\Debug\Date-time.pdb
