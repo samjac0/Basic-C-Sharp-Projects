@@ -8,21 +8,23 @@ namespace Contructors
 {
     public class Employee
     {
-        public Employee(string name) : this(name, "Designation 51.52")
+        public Employee(string name) : this(name, 2160)
         {
+            Console.WriteLine("Name is " + name + " and your default pay would be " + Num);
         }
-        public Employee(string name, string lname)
+
+        public Employee(float pay) : this("Robot", pay)
+        {
+            Console.WriteLine("Default pay is " + pay + " and your default name is " + Name );
+        }
+        public Employee(string name, float pay)
         {
             Name = name;
-            Alt = lname;
+            Num = pay;
+
         }
         public string Name { get; set; }
-        public string Alt { get; set; }
+        public float Num { get; set; }
 
-        public void Welcome()
-        {
-            Console.WriteLine("Welcome {0} {1}!", Name, Alt);
-        }
-            
     }
 }

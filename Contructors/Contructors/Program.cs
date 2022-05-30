@@ -10,20 +10,23 @@ namespace Contructors
     {
         static void Main(string[] args)
         {
+            const string prize = " 3 skittles. ";
             Console.WriteLine("Hello! Welcome to this simple program. Would you submit your first name or robotic designation number?");
-            var name = Console.ReadLine();
-            Console.WriteLine("Great! Now input your last name if you would like. Or, just hit 'Enter'");
-            var lname = Console.ReadLine();
+            var id = Console.ReadLine();
+            //Console.WriteLine("Great! Now input your last name if you would like. Or, just hit 'Enter'");
+            //var pay = Console.ReadLine();
 
-            try
+            if (float.TryParse(id, out float id2))
             {
-                Employee employee = new Employee(name, lname);
-                employee.Welcome();
+                Employee employee = new Employee(id2);
+                Console.WriteLine("You also get" + prize +"Awesome!");
+
+
             }
-            catch
+            else
             {
-                Employee employee = new Employee(name);
-                employee.Welcome();
+                Employee employee = new Employee(id);
+                Console.WriteLine("You also get" + prize + "Great Work!");
             }
            
             Console.ReadLine();
