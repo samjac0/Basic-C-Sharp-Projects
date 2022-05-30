@@ -16,12 +16,12 @@ namespace Date_time
             Console.WriteLine("The date and time at your location is currently {0}.", now);
 
             Console.WriteLine("Now, please select how many hours you wish to add to the current time.");
-            string hours = Console.ReadLine();
-            DateTime hours1 = DateTime.ParseExact(hours, "HH", null);
+            int userHours = Convert.ToInt32(Console.ReadLine());
 
-            TimeSpan later = now + hours1;
 
-            Console.WriteLine("In {0} hours, the time and date will be exactly {1}.", hours, later );
+            DateTime later = now.AddHours(userHours);
+
+            Console.WriteLine("In {0} hours, the time and date will be exactly {1}.", userHours, later );
             
 
             Console.ReadLine();

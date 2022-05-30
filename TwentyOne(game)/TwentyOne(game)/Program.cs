@@ -12,10 +12,6 @@ namespace TwentyOne_game_
         static void Main(string[] args)
         {
 
-            DateTime dateTime = new DateTime(2018, 11, 23);
-            DateTime Graduate = new DateTime(2020, 12, 23);
-
-            TimeSpan yearsGraduate = Graduate - dateTime;
 
             Console.WriteLine("Welcome to the Grand Hotel and Casino. :et's start by telling me your name.");
             string pName = Console.ReadLine();
@@ -87,3 +83,8 @@ namespace TwentyOne_game_
 //    Console.WriteLine(card.Face + " of " + card.Suit);
 //}
 //Console.ReadLine();
+
+
+//DateTime dateTime = new DateTime(2018, 11, 23);
+//DateTime Graduate = new DateTime(2020, 12, 23);
+//TimeSpan yearsGraduate = Graduate - dateTime;
