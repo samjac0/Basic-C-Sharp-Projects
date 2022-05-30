@@ -4,8 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.TwentyOne;
 
-namespace TwentyOne_game_
+namespace Casino
 {
     internal class Program
     {
@@ -13,7 +15,7 @@ namespace TwentyOne_game_
         {
 
 
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. :et's start by telling me your name.");
+            Console.WriteLine("Welcome to the Grand Hotel and Casino. : let's start by telling me your name.");
             string pName = Console.ReadLine();
             
             Console.WriteLine("And how much money did you bring today?");

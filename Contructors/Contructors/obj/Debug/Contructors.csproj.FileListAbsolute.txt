@@ -1,0 +1,8 @@
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Contructors\Contructors\bin\Debug\Contructors.exe.config
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Contructors\Contructors\bin\Debug\Contructors.exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Contructors\Contructors\bin\Debug\Contructors.pdb
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Contructors\Contructors\obj\Debug\Contructors.csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Contructors\Contructors\obj\Debug\Contructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Contructors\Contructors\obj\Debug\Contructors.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Contructors\Contructors\obj\Debug\Contructors.exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\Contructors\Contructors\obj\Debug\Contructors.pdb

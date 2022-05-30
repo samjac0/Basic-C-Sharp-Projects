@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{937C99AF-5473-4001-8AA3-C6F81F90AE48}</ProjectGuid>
+    <ProjectGuid>{BB21EAC9-858A-4775-A180-65E1886BA889}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TwentyOne_game_</RootNamespace>
-    <AssemblyName>TwentyOne%28game%29</AssemblyName>
+    <RootNamespace>Contructors</RootNamespace>
+    <AssemblyName>Contructors</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Employee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Casino\Casino.csproj">
-      <Project>{dc242f22-f276-41d2-996c-752027542849}</Project>
-      <Name>Casino</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

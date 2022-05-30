@@ -6,3 +6,6 @@ C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(gam
 C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\TwentyOne(game)\bin\Debug\TwentyOne(game).pdb
 C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\TwentyOne(game)\obj\Debug\TwentyOne(game).exe
 C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\TwentyOne(game)\obj\Debug\TwentyOne(game).pdb
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\TwentyOne(game)\bin\Debug\Casino.dll
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\TwentyOne(game)\bin\Debug\Casino.pdb
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\TwentyOne(game)\obj\Debug\TwentyOne(game).csproj.CopyComplete

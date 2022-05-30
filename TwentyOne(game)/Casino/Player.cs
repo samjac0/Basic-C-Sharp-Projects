@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne_game_
+namespace Casino
 {
     public class Player
     {
+        public Player(string name):this(name, 1000)
+        {
+        }
         public Player(string name, int balance)
         {
             Hand = new List<Card>();

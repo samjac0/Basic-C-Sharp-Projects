@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace TwentyOne_game_
+namespace Casino.TwentyOne
 {
-    internal class TwentyOneGame : Game, IWalkAway
+    public class TwentyOneGame : Game, IWalkAway
     {
         public TwentyOneDealer Dealer { get; set; }
         
@@ -29,7 +29,7 @@ namespace TwentyOne_game_
             {
                 int bet = Convert.ToInt32(Console.ReadLine());
                 bool successfullyBet = player.Bet(bet);
-                if (successfullyBet)
+                if (!successfullyBet)
                 {
                     return;
                 }

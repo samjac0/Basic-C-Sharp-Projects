@@ -1,0 +1,6 @@
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\Casino\bin\Debug\Casino.dll
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\Casino\bin\Debug\Casino.pdb
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\Casino\obj\Debug\Casino.dll
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\TwentyOne(game)\Casino\obj\Debug\Casino.pdb
