@@ -23,3 +23,4 @@ A simple program showing the ability to understand and manipulate Asp.Net Core u
 
 ________________________________________________
 Further description
+In addition to the above, other console apps are included that show competency in the following: DateTime, Methods, Lists, Arrays, Classes, Math, Parsing, etc.
