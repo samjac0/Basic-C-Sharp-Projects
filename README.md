@@ -18,7 +18,7 @@ This repository has various C-Sharp projects that showcase what I have learned t
 Description
 
 ### TwentyOne Game
-A more-robust console app that takes a player through a twenty one game. Scaffolding is structured to allow more games in the app with minimal concern by utilizing generic/abstract classes. Notable elements include a shuffledeck, busted boolean, betting, and leaving the table once the player is out of money.
+A more-robust console app that takes a player through a twenty one game. Scaffolding is structured to allow more games in the app with minimal concern by utilizing generic/abstract classes. Notable elements include a db method that logs errors, shuffledeck, busted boolean, betting, and leaving the table once the player is out of money.
 
 ### Car Insurance Portal
 Using Asp.Net, I created a simple protal that intakes insurees and goes through a fake underwritting process, then delivers a quote to the "admin" page. Project utilizes Bootstrap, EntityFramework, and various C# methods allowing a user to edit/delete Insurees. 
