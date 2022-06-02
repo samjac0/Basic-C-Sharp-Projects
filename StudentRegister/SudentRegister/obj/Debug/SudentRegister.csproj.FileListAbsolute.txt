@@ -1,0 +1,13 @@
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\SudentRegister\SudentRegister\bin\Debug\SudentRegister.exe.config
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\SudentRegister\SudentRegister\bin\Debug\SudentRegister.exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\SudentRegister\SudentRegister\bin\Debug\SudentRegister.pdb
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\SudentRegister\SudentRegister\bin\Debug\EntityFramework.dll
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\SudentRegister\SudentRegister\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\SudentRegister\SudentRegister\bin\Debug\EntityFramework.xml
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\SudentRegister\SudentRegister\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\SudentRegister\SudentRegister\obj\Debug\SudentRegister.csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\SudentRegister\SudentRegister\obj\Debug\SudentRegister.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\SudentRegister\SudentRegister\obj\Debug\SudentRegister.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\SudentRegister\SudentRegister\obj\Debug\SudentRegister.csproj.CopyComplete
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\SudentRegister\SudentRegister\obj\Debug\SudentRegister.exe
+C:\Users\jacob\Desktop\Development\Projects\Basic-C-Sharp-Projects\SudentRegister\SudentRegister\obj\Debug\SudentRegister.pdb
