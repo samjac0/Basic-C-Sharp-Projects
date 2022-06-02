@@ -9,7 +9,7 @@ This repository has various C-Sharp projects that showcase what I have learned t
 
 [TwentyOne Game](https://github.com/samjac0/Basic-C-Sharp-Projects/edit/main/README.md)
 
-[Care insurance portal](https://github.com/samjac0/Basic-C-Sharp-Projects/edit/main/README.md](https://github.com/samjac0/Basic-C-Sharp-Projects/tree/main/Asp.Net%20Core%20%26%20Web/CarInsurance%20Project)
+[Care insurance portal](https://github.com/samjac0/Basic-C-Sharp-Projects/tree/main/Asp.Net%20Core%20%26%20Web/CarInsurance%20Project)
 
 [Project 4](https://github.com/samjac0/Basic-C-Sharp-Projects/edit/main/README.md)
 
