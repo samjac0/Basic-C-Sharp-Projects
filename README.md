@@ -22,5 +22,4 @@ Using Asp.Net, I created a simple protal that intakes insurees and goes through 
 A simple program showing the ability to understand and manipulate Asp.Net Core using razor. It displays the Date and time.
 
 ________________________________________________
-####Further description
 In addition to the above, other console apps are included that show competency in the following: DateTime, Methods, Lists, Arrays, Classes, Math, Parsing, etc.
