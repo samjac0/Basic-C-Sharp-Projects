@@ -26,5 +26,5 @@ In addition to the above, other console apps are included that show competency i
 
 
 
-
+---
 Interested in learning more about me? Checkout my [LinkedIn](https://www.linkedin.com/in/s-jacob-flaherty/) or [developer portfolio!](https://samjac0.github.io/)
